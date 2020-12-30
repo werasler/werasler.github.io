@@ -1,0 +1,14 @@
+Package: com.werasler.appsyncunified
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: Werasler <huertasalex962@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.werasler.appsyncunified_84.0.deb
+Size: 63
+MD5sum: 736978948B934C7F80D02FEAB7662F14
+SHA1: 9D7C61199EE8E169723136553A544A8D4652032F
+SHA256: 886173D3ADEE8A32CDE6DB6B1C4A471D329DBB78D0C6EBEAC32EB864B6903DD1
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications
+Author: Werasler <huertasalex962@gmail.com>
+Name: Самоучитель английского языка. Полный курс: иностранный язык с нуля для начинающих
