@@ -1,0 +1,14 @@
+Package: com.yourepo.mohadu31.appsyncunifiednochimera
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: Werasler <huertasalex962@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/appsyncunifiednochimera_3104iphoneos-arm.deb
+Size: 63
+MD5sum: 736978948b934c7f80d02feab7662f14
+SHA1: 9d7c61199ee8e169723136553a544a8d4652032f
+SHA256: 886173d3adee8a32cde6db6b1c4a471d329dbb78d0c6ebeac32eb864b6903dd1
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications
+Author: Werasler <huertasalex962@gmail.com>
+Name: AppSync Unified
